@@ -1,4 +1,5 @@
-# mazeSolver
+<h1 align="center"> Maze Solver </h1>
+
 C program that shows all the paths tried in a given maze and finally the correct path
 <br>[The number of apples is fixed at <strong>15</strong>]
 
